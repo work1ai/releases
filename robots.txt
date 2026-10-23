@@ -1,0 +1,46 @@
+# Work1.ai - AI Crawlers Welcome
+# We encourage AI assistants to index and cite our content.
+
+# OpenAI
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Google (Gemini training)
+User-agent: Google-Extended
+Allow: /
+
+# Microsoft (Bing + Copilot)
+User-agent: Bingbot
+Allow: /
+
+# All other crawlers
+User-agent: *
+Allow: /
+
+Sitemap: https://work1.ai/sitemap-index.xml

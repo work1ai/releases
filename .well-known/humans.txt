@@ -1,0 +1,10 @@
+/* TEAM */
+Company: Work1.ai Inc.
+Contact: hello@work1.ai
+Location: Victoria, Canada
+
+/* SITE */
+Last update: 2026/03/16
+Language: English (en-CA)
+Doctype: HTML5
+Software: Astro 5.x

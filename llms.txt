@@ -1,0 +1,39 @@
+# Work1.ai
+
+> Work1.ai provides operational AI implementation for Canadian small and medium enterprises. We map decision logic, document risk thresholds, and build automations with circuit breakers. Fixed-scope, fixed-price engagements starting with an AI Roadmap.
+
+Work1.ai is an AI consulting firm based in Victoria, BC, Canada. We specialize in operational AI — automating the decisions, approvals, routing, and coordination workflows that run your business. We are not a chatbot or content automation agency.
+
+## Services
+
+- AI Roadmap: 6-12 week fixed-scope engagement. Workflow discovery, decision logic documentation, risk mapping, and circuit breaker documentation, delivering a prioritized roadmap for where AI fits your operations. Fixed-scope and fixed-price, quoted on a 30-minute discovery call from company size and number of systems of record.
+- Live Pilot: 3-6 week fixed-scope engagement. One real automation built and deployed in a controlled environment for a single priority workflow. Optional, scoped from your Roadmap.
+- Full Implementation: 12-month engagement for custom operational automation system deployment. Phased payments tied to delivery milestones.
+- Optimization and Maintenance: Ongoing monthly retainer for monitoring, threshold tuning, expansion, and governance reviews.
+
+## Deliverables (AI Roadmap)
+
+- Decision Trees and Task Matrix: Who decides what, under what conditions, with what authority
+- Circuit Breaker Documentation: Explicit stop conditions for every agent with human escalation paths
+- Risk Maps (3 types): Decision risk, data risk, and agency risk with defined autonomy zones
+
+Everything produced in the Roadmap belongs to you, whether or not you continue further. No lock-in.
+
+## Team
+
+Work1.ai is a three-person team spanning sales, engineering, and workflow design. Contractors we have worked with before are brought in when a project needs more hands, held to the same documentation standards.
+
+## Free Resources
+
+- [Map One Decision worksheet](https://work1.ai/map-one-decision/): A free 20-30 minute worksheet that walks you through mapping the decision logic, risk thresholds, and circuit breakers for one real workflow — the same framework used in a paid Roadmap.
+- [Insights](https://work1.ai/blog/): Articles on decision-first architecture, governed autonomy, and operational AI for SMEs.
+
+## Contact
+
+- Website: https://work1.ai
+- Email: hello@work1.ai
+- Booking: https://meetings-na3.hubspot.com/matt-alfke
+
+## Full Content
+
+- [Complete page content](https://work1.ai/llms-full.txt): Full text of all site sections in clean Markdown

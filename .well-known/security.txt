@@ -1,0 +1,4 @@
+Contact: mailto:hello@work1.ai
+Expires: 2027-03-16T00:00:00Z
+Preferred-Languages: en
+Canonical: https://work1.ai/.well-known/security.txt
