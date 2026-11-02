@@ -18,37 +18,7 @@ Most AI agencies build chatbots and content pipelines. We go inside your busines
 
 ---
 
-## The Execution Gap
-
-### Most pilots don't fail. The organization does.
-
-It's not the technology. It's that nobody mapped the risk before building. Decision logic lives in someone's head. And the AI vendor who sold you the tool doesn't stick around to figure it out.
-
-- **60%** of knowledge workers' time spent on coordination — the exact work AI should handle (Asana, 2025)
-- **67%** of organizations cite data quality issues as their top AI readiness challenge (LinkedIn, 2026)
-- **3x** more AI adoption at large firms vs. SMEs — the gap is widening (OECD, 2026)
-
-### Pain 01: You don't know where it's safe to let the machine decide
-
-The question isn't "can we automate this?" It's "what happens when it goes wrong?" Without documented risk thresholds and human supervision checkpoints, every automation is a liability. Most AI agencies don't have a framework for this. We built one.
-
-### Pain 02: Your decisions live in email threads and tribal knowledge
-
-Five systems give five different answers. Approvals go to whoever picked up the phone. Nobody can articulate the actual rule — they just know it when they see it. AI can't automate what nobody has documented. We document it first.
-
-### Pain 03: The AI industry is selling growth tools when you need operational ones
-
-Chatbots. Social automation. AI-generated content. These are fine — but they're not where SMEs lose time and money. The real leverage is in your operations: approvals, routing, intake, coordination, quality control. That's where we work.
-
-### Pain 04: You've been burned by implementations that promised more than they delivered
-
-Big proposals, impressive demos, then months of rework and scope creep. By the time it launched it didn't match what was sold — and the vendor had already moved on. Now you're cautious, and rightly so. The problem isn't that you're hesitant. It's that the industry made hesitation the rational choice.
-
----
-
 ## On the record
-
-### Proof, not promises
 
 > "The Roadmap showed us where AI fits into our business, where it doesn't, and how to get there. Every company needs a plan like this."
 >
@@ -60,37 +30,30 @@ Big proposals, impressive demos, then months of rework and scope creep. By the t
 
 ---
 
-## How It Works
+## The Execution Gap
 
-### A phased process designed to protect your investment
+### Most pilots don't fail. The organization does.
 
-We don't do big-bang implementations. Every engagement follows a deliberate sequence: understand before recommending, document before building, pilot before scaling.
+It's not the technology. It's that nobody mapped the risk before building. Decision logic lives in someone's head. And the AI vendor who sold you the tool doesn't stick around to figure it out.
 
-**Our commitment to you:** The Roadmap phase is fixed-scope and fixed-price. At the end of it, you receive a complete roadmap and recommendations — regardless of whether you continue with us. You are not paying for a sales pitch.
+- **60%** of knowledge workers' time spent on coordination — the exact work AI should handle (Asana, 2025)
+- **3x** more AI adoption at large firms vs. SMEs — the gap is widening (OECD, 2026)
 
-### Phase 01: AI Roadmap (For Canadian SMEs) — Fixed scope, 6-12 weeks
+### You don't know where it's safe to let the machine decide
 
-Deep workflow discovery. We map your decisions, identify what's safe to automate, and document your risk thresholds — delivering a prioritized roadmap for where AI fits your operations, and where it doesn't.
+The question isn't "can we automate this?" It's "what happens when it goes wrong?" Without documented risk thresholds and human supervision checkpoints, every automation is a liability. Most AI agencies don't have a framework for this. We built one.
 
-You own the roadmap. No obligation to continue.
+### Your decisions live in email threads and tribal knowledge
 
-### Phase 02: Live Pilot (Optional — you decide) — Fixed scope, 3-6 weeks
+Five systems give five different answers. Approvals go to whoever picked up the phone. Nobody can articulate the actual rule — they just know it when they see it. AI can't automate what nobody has documented. We document it first.
 
-One real automation, built and deployed in a controlled environment for a single priority workflow. Proof the approach works in your business — before you commit to a full rollout.
+### The AI industry is selling growth tools when you need operational ones
 
-Scoped from your Roadmap. Ships with deployment docs and results you can evaluate before scaling.
+Chatbots. Social automation. AI-generated content. These are fine — but they're not where SMEs lose time and money. The real leverage is in your operations: approvals, routing, intake, coordination, quality control. That's where we work.
 
-### Phase 03: Full Implementation (The build itself) — 12-month engagement
+### You've been burned by implementations that promised more than they delivered
 
-Custom design, build, and deployment of your operational automation system. Multi-process rollout, governance cadences, team training, and documentation so your people can operate and extend what we build.
-
-Phased payments tied to delivery milestones. Includes full system documentation and team training.
-
-### Phase 04: Optimization & Maintenance (Ongoing partnership) — Monthly retainer
-
-Ongoing monitoring, threshold tuning, new automation expansion, and governance reviews as your business evolves. A long-term operational partner — not a one-time vendor who disappears after launch.
-
-Scoped after implementation is complete. Delivered as a monthly performance and governance report.
+Big proposals, impressive demos, then months of rework and scope creep. By the time it launched it didn't match what was sold — and the vendor had already moved on. Now you're cautious, and rightly so. The problem isn't that you're hesitant. It's that the industry made hesitation the rational choice.
 
 ---
 
@@ -112,6 +75,40 @@ Everything produced in the AI Roadmap belongs to you — whether or not you cont
 - Decision: Does resolving it require changing or exposing customer payment data?
   - **Yes** → Escalate to a human agent — payment data changes always need sign-off.
   - **No** → Proceeds automatically. Logged for review.
+
+---
+
+## Our Process
+
+### A phased process designed to protect your investment
+
+We don't do big-bang implementations. Every engagement follows a deliberate sequence: understand before recommending, document before building, pilot before scaling.
+
+**Our commitment to you:** The Roadmap phase is fixed-scope and fixed-price. At the end of it, you receive a complete roadmap and recommendations — regardless of whether you continue with us. You are not paying for a sales pitch.
+
+### AI Roadmap (For Canadian SMEs) — Fixed scope, 6-12 weeks
+
+Deep workflow discovery. We map your decisions, identify what's safe to automate, and document your risk thresholds — delivering a prioritized roadmap for where AI fits your operations, and where it doesn't.
+
+You own the roadmap. No obligation to continue.
+
+### Live Pilot (Optional — you decide) — Fixed scope, 3-6 weeks
+
+One real automation, built and deployed in a controlled environment for a single priority workflow. Proof the approach works in your business — before you commit to a full rollout.
+
+Scoped from your Roadmap. Ships with deployment docs and results you can evaluate before scaling.
+
+### Full Implementation (The build itself) — 12-month engagement
+
+Custom design, build, and deployment of your operational automation system. Multi-process rollout, governance cadences, team training, and documentation so your people can operate and extend what we build.
+
+Phased payments tied to delivery milestones. Includes full system documentation and team training.
+
+### Optimization & Maintenance (Ongoing partnership) — Monthly retainer
+
+Ongoing monitoring, threshold tuning, new automation expansion, and governance reviews as your business evolves. A long-term operational partner — not a one-time vendor who disappears after launch.
+
+Scoped after implementation is complete. Delivered as a monthly performance and governance report.
 
 ---
 
@@ -153,7 +150,7 @@ Three people run every engagement. When a project needs more hands, we bring in 
 
 ### We've tried something like this before and it never made it past the pilot. How is this different?
 
-That's the norm, not the exception — 67% of organizations cite data quality issues as their top AI readiness challenge. Usually it's not the technology that stalls, it's that nobody documented the decision logic or risk thresholds before building, so nobody trusts the thing enough to expand it. That's the entire reason the Roadmap phase exists before any build starts: you get the decision logic, risk maps, and escalation rules on paper first. If a Live Pilot makes sense afterward, it's a separately scoped step you can say yes or no to — not a sunk cost you're already inside of.
+That's the norm, not the exception. Usually it's not the technology that stalls, it's that nobody documented the decision logic or risk thresholds before building, so nobody trusts the thing enough to expand it. That's the entire reason the Roadmap phase exists before any build starts: you get the decision logic, risk maps, and escalation rules on paper first. If a Live Pilot makes sense afterward, it's a separately scoped step you can say yes or no to — not a sunk cost you're already inside of.
 
 ### What happens to our data — who can see it, and where does it live?
 
