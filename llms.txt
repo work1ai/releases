@@ -23,6 +23,10 @@ Everything produced in the Roadmap belongs to you, whether or not you continue f
 
 Work1.ai is a three-person team spanning sales, engineering, and workflow design. Contractors we have worked with before are brought in when a project needs more hands, held to the same documentation standards.
 
+## Research
+
+- [The Independents’ Window](https://work1.ai/the-independents-window/): Work1.ai market research on property management in British Columbia and Alberta (October 2026). What the large property managers already automate, where independent and mid-sized firms stand on AI, the decisions a person must keep, and the market data behind it: rent paid, management fee pools, operators and firms by census division and for ten metro areas. Markdown edition: https://work1.ai/the-independents-window/index.html.md · PDF: https://work1.ai/the-independents-window/the-independents-window.pdf
+
 ## Free Resources
 
 - [Map One Decision worksheet](https://work1.ai/map-one-decision/): A free 20-30 minute worksheet that walks you through mapping the decision logic, risk thresholds, and circuit breakers for one real workflow — the same framework used in a paid Roadmap.
